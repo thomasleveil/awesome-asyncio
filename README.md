@@ -30,6 +30,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 *Libraries to build web applications.*
 
 * [aiohttp](https://github.com/KeepSafe/aiohttp) - Http client/server for asyncio (PEP-3156).
+* [httpx](https://github.com/encode/httpx) - the requests-async project grew to become httpx with implementation of both sync and async HTTP client.
 * [sanic](https://github.com/channelcat/sanic) - Python 3.5+ web server that's written to go fast.
 * [Quart](https://gitlab.com/pgjones/quart) - An asyncio web microframework with the same API as Flask.
 * [Vibora](https://github.com/vibora-io/vibora) - Performant web framework inspired by Flask.
